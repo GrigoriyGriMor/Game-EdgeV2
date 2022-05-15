@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 48821002cb701c141908bebafa38211f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_1"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 658
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8968a9d81c4b3ad60800000000000000
+      internalID: 7900356914735384216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_3"
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 596
+        width: 368
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3ac99bb804487d0800000000000000
+      internalID: -2917135689770556488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_5"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 656
+        width: 204
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7618188db717cb890800000000000000
+      internalID: -7440947707595619993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_6"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 659
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7709a2f73f1ac2b30800000000000000
+      internalID: 4263961014395637879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_8"
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 662
+        width: 160
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b90b18b9943800800000000000000
+      internalID: 591266467099031154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_12"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 661
+        width: 178
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e731582b6d9f1b70800000000000000
+      internalID: 8871982874506639329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_21"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 459
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d9ac54d42afdd0800000000000000
+      internalID: -2451606552643512585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_23"
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 466
+        width: 179
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db00a5210d1fae0800000000000000
+      internalID: -1517202822209159815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_24"
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 461
+        width: 186
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec619b3fd695180800000000000000
+      internalID: -9126142276339839464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_27"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 459
+        width: 181
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1d566069a169460800000000000000
+      internalID: 7248009881954144761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_29"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 462
+        width: 146
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d225336dcfb8240800000000000000
+      internalID: 4795204225180249400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_32"
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 301
+        width: 366
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb6544593e65110800000000000000
+      internalID: 1249436176878059491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_37"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 243
+        width: 149
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908256fff887ac2e0800000000000000
+      internalID: -2104737315981809655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_38"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 233
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71466c1ab4fc7f0800000000000000
+      internalID: -590169867971979276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_39"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 265
+        width: 156
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28b7db8317841270800000000000000
+      internalID: 8220343737878296620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_40"
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 264
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a848e4301c687a0800000000000000
+      internalID: -6375196002549986750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_45"
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 63
+        width: 267
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f211e8c5b469dd0800000000000000
+      internalID: -2479711683928314064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_46"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 83
+        width: 208
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28be7d1284e641c0800000000000000
+      internalID: -4519673928527988693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_47"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 80
+        width: 165
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a54b7385889f0190800000000000000
+      internalID: -7994003114355374684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "grass_mushrooms_branches_bushes(\u0431\u0435\u0437 \u0444\u043E\u043D\u0430)_49"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 69
+        width: 159
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276d038e62b38550800000000000000
+      internalID: 6161964902887810861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

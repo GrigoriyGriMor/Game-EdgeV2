@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 9f814099477f3ec4cac66229a49573c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1589650270730824960
+    second: ui edge-3_0
+  - first:
+      213: -7454489588511374153
+    second: ui edge-3_1
+  - first:
+      213: -6660376949541826253
+    second: ui edge-3_2
+  - first:
+      213: -4787580613706840853
+    second: ui edge-3_3
+  - first:
+      213: -8523381549165917629
+    second: ui edge-3_4
+  - first:
+      213: 1029324279354416125
+    second: ui edge-3_5
+  - first:
+      213: -814927739163789043
+    second: ui edge-3_6
+  - first:
+      213: 48119559148664151
+    second: ui edge-3_7
+  - first:
+      213: 1956362736466446640
+    second: ui edge-3_8
+  - first:
+      213: 3556922947863454222
+    second: ui edge-3_9
+  - first:
+      213: -6603058398176278302
+    second: ui edge-3_10
+  - first:
+      213: 1039934642377599823
+    second: ui edge-3_11
+  - first:
+      213: -2199644910212977130
+    second: ui edge-3_12
+  - first:
+      213: -6895673355191917511
+    second: ui edge-3_13
+  - first:
+      213: -1403364082976818018
+    second: ui edge-3_14
+  - first:
+      213: 4461137070008773337
+    second: ui edge-3_15
+  - first:
+      213: 4427811251659440781
+    second: ui edge-3_16
+  - first:
+      213: 291836822933835478
+    second: ui edge-3_17
+  - first:
+      213: -2046370228044837525
+    second: ui edge-3_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui edge-3_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1836
+        width: 173
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da308bf729f0610800000000000000
+      internalID: 1589650270730824960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1837
+        width: 713
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b48eeef6355c8890800000000000000
+      internalID: -7454489588511374153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_2
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1840
+        width: 678
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311c5cd3769193a0800000000000000
+      internalID: -6660376949541826253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_3
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1843
+        width: 283
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4057a2cc81f8db0800000000000000
+      internalID: -4787580613706840853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1647
+        width: 174
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac8dcc3add6b980800000000000000
+      internalID: -8523381549165917629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1656
+        width: 709
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbda9d7af4e84e00800000000000000
+      internalID: 1029324279354416125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_6
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1660
+        width: 672
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09b785f98bc0b4f0800000000000000
+      internalID: -814927739163789043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_7
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1667
+        width: 280
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755fdcdeb74faa000800000000000000
+      internalID: 48119559148664151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1404
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c4e62b85662b10800000000000000
+      internalID: 1956362736466446640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1485
+        width: 697
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0226d0639abc5130800000000000000
+      internalID: 3556922947863454222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1489
+        width: 663
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e80b811f593d54a0800000000000000
+      internalID: -6603058398176278302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_11
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1484
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2a842c079e6e00800000000000000
+      internalID: 1039934642377599823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1304
+        width: 697
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e62cebb9a4971e0800000000000000
+      internalID: -2199644910212977130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1309
+        width: 664
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e8a84e95ad40a0800000000000000
+      internalID: -6895673355191917511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_14
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1304
+        width: 279
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cff974dcf368ce0800000000000000
+      internalID: -1403364082976818018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1080
+        width: 748
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2330778429ed30800000000000000
+      internalID: 4461137070008773337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1096
+        width: 332
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8283a3bfdeb27d30800000000000000
+      internalID: 4427811251659440781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 732
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de89535b00dc0400800000000000000
+      internalID: 291836822933835478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui edge-3_18
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 42
+        width: 889
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc376ae15d993e0800000000000000
+      internalID: -2046370228044837525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
