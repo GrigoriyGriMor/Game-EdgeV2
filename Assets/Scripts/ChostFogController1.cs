@@ -25,6 +25,8 @@ public class ChostFogController1 : MonoBehaviour
     [SerializeField] private float levelUpTime = 120.0f;
     private float levelPlusDistance = 0;
 
+    [SerializeField] private Animator EyeAnim; 
+
     private void Start()
     {
         if (SoundManager.Instance) SoundManager.Instance.ClipLoopAndPlay(fogSound);
@@ -56,6 +58,7 @@ public class ChostFogController1 : MonoBehaviour
             {
                 StartCoroutine(ChostFogAttack());
                 if (SoundManager.Instance) SoundManager.Instance.ClipPlay(fogLaughter[Random.Range(0, fogLaughter.Length)]);
+                StartCoroutine(UseEyeLight());
                 timeFirstAttack += 1;
             }
             else
@@ -128,6 +131,15 @@ public class ChostFogController1 : MonoBehaviour
         yield return new WaitForSeconds(attackTime);
 
         if (SoundManager.Instance) SoundManager.Instance.ClipPlay(fogLaughter[Random.Range(0, fogLaughter.Length)]);
+        StartCoroutine(UseEyeLight());
+
         StartCoroutine(ChostFogAttack());
+    }
+
+    [SerializeField] private float timerEyeLight = 1f;
+    private IEnumerator UseEyeLight()
+    {
+        yield return new WaitForSeconds(timerEyeLight);
+        EyeAnim.SetTrigger("Active");
     }
 }
