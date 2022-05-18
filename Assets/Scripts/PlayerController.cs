@@ -511,7 +511,8 @@ public class PlayerController : MonoBehaviour
 
         if (collision.gameObject.GetComponent<PointController>())
         {
-            GameLevel.Instance.UpgradePoint(10);
+            //GameLevel.Instance.UpgradePoint(10);
+            Multiplier.Instance.GetBonus(10);
             collision.gameObject.SetActive(false);
             return;
         }
