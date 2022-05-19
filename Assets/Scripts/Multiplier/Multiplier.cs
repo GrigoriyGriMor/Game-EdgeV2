@@ -20,7 +20,7 @@ public class Multiplier : MonoBehaviour
     private void Start()
     {
         instance = this;
-        XCounter = 1;
+        XCounter = 0;
         timer = defaultTimer;
         timerImage = timerImageAnim.gameObject;
         timerImage.SetActive(false);
@@ -32,7 +32,7 @@ public class Multiplier : MonoBehaviour
         if(timer<0)
         {
             timerImage.SetActive(false);
-            XCounter = 1;
+            XCounter = 0;
             multiplierText.text = XCounter.ToString();
             SetCanvas(false);
         }
