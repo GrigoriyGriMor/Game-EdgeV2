@@ -36,13 +36,14 @@ public class GameLevel : MonoBehaviour
     private enum DifficultyLevel { Easy, Medium, Hurd, Impossible }
     private DifficultyLevel difficultyLevel = DifficultyLevel.Easy;
 
+    public float totalTimePlaying { get; private set; }
     private void Start()
     {
         instance = this;
         buttonCanvas.SetActive(false);
         LoadingScreen = Instantiate(loadScreen[Random.Range(0, loadScreen.Length)], new Vector2(0, 0), new Quaternion(0, 0, 0, 0));
         bestResult = PlayerPrefs.GetInt("BestResult");
-        _point.text = "YOU BEST RESULT: " + bestResult;
+        _point.text = "YOUR BEST RESULT: " + bestResult;
         if (LoadingScreen != null)
         {
             LoadingScreen.SetActive(true);
@@ -133,6 +134,9 @@ public class GameLevel : MonoBehaviour
 
         if (!gameIsPlaying) return;
         EvolutionControl();
+
+        //yasha dopisal
+        totalTimePlaying += Time.deltaTime;
     }
 
     private void EvolutionControl()
