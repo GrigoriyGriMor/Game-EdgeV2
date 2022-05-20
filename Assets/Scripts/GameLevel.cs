@@ -116,6 +116,11 @@ public class GameLevel : MonoBehaviour
         _onLose.Invoke();
     }
 
+    public int GetEvolutionPoint()
+    {
+        return Mathf.CeilToInt(evolutionPoint);
+    }
+
     public void UpgradePoint(int value)
     {
         evolutionPoint += value;
