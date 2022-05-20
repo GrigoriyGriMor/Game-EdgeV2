@@ -95,7 +95,7 @@ public class Stats : MonoBehaviour
         summary.Add(StatsTypes.Distance, GameLevel.Instance.GetEvolutionPoint().ToString());
         summary.Add(StatsTypes.Danger, TotalDangerousMoments.ToString());
         summary.Add(StatsTypes.Mistake, TotalMistake.ToString());
-        summary.Add(StatsTypes.Time, GameLevel.Instance.totalTimePlaying.ToString());
+        summary.Add(StatsTypes.Time, Mathf.Round(GameLevel.Instance.totalTimePlaying).ToString() + " s");
         summary.Add(StatsTypes.Best, PlayerPrefs.GetInt("BestResult").ToString());
         return summary;
     }
