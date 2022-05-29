@@ -74,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 16
   m_Sprite: {fileID: 21300000, guid: 7146ab04237aecf429b2c2c35d540696, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -115,9 +115,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speedPlayer: 2.5
-  moveMultiple: 0.1
-  moveForward: 1
-  startPosition: {fileID: 0}
+  _speedFallValue: 0.2
+  speedAcceleration: 2
   goBack: 0
   _jumpForce: 400
   _slideTime: 2
@@ -133,6 +132,12 @@ MonoBehaviour:
   runClip: {fileID: 0}
   slideClip: {fileID: 0}
   dieClip: {fileID: 0}
+  portal: {fileID: 0}
+  spide: {fileID: 0}
+  speedWind: {fileID: 0}
+  startPosition: {fileID: 0}
+  inversGravity: 0
+  multiplayCameraSpeed: 1.8
 --- !u!50 &7429689014881785420
 Rigidbody2D:
   serializedVersion: 4
