@@ -3880,7 +3880,7 @@ MonoBehaviour:
       type: 3}
     objType: 8
     layer: 0
-  - objPrefab: {fileID: 2452492413128584647, guid: 64fd9bd83455719488e745509eb8686b,
+  - objPrefab: {fileID: 3506313285050409952, guid: 3c01d7311f060f445823acf91528383f,
       type: 3}
     objType: 2
     layer: 1
@@ -3900,7 +3900,7 @@ MonoBehaviour:
       type: 3}
     objType: 2
     layer: 2
-  - objPrefab: {fileID: 3506313285050409952, guid: 577e2b1bde0f35f4f90a57f2ba5c10c1,
+  - objPrefab: {fileID: 3506313285050409952, guid: 70e1aaf93e9783f4898c957fbb38c26e,
       type: 3}
     objType: 2
     layer: 2
